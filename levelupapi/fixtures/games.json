@@ -1,0 +1,40 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Cards Against Humanity",
+            "maker": "SomeGuys",
+            "number_of_players": 8,
+            "skill_level": 2,
+            "game_type": 4,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Ms. PacMan",
+            "maker": "Feminists",
+            "number_of_players": 2,
+            "skill_level": 4,
+            "game_type": 5,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Battle Ship",
+            "maker": "Some guys who weren't hugged enough as children",
+            "number_of_players": 4,
+            "skill_level": 5,
+            "game_type": 1,
+            "gamer": 1
+        }
+    }
+]
+
+
